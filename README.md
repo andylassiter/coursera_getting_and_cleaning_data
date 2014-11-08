@@ -1,2 +1,5 @@
-coursera_getting_and_cleaning_data
+Coursera Getting and Cleaning Data
 ==================================
+
+Nov 3 to Dec 1 2014
+-------------------
